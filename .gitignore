@@ -1,5 +1,10 @@
 target/
+*.class
 *.log
 .vscode/
 .idea/
 *.iml
+.classpath
+.project
+.settings/
+.github/modernize/
